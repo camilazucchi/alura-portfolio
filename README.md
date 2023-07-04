@@ -11,5 +11,8 @@ Para a construção deste projeto foram utilizadas as seguintes tecnologias:
 ## Prévia
 ![Alt text](/assets/thumbnail.png)
 
+## Deploy
+O projeto encontra-se em deploy [aqui](https://alura-portfolio-phi.vercel.app/).
+
 ## Autores
 Feito com muita dedicação por [@camilazucchi](https://www.github.com/camilazucchi).
