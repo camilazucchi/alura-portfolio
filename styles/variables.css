@@ -1,0 +1,12 @@
+:root {
+  --accent-color: #22d4fd;
+  --background-color: #000000;
+  --font-family-primary: "Montserrat", sans-serif;
+  --font-family-secondary: "Krona One", sans-serif;
+  --font-size-extra-large: 2.25rem;
+  --font-size-large: 1.5rem;
+  --font-size-medium: 1.375rem;
+  --font-size-small: 1.25rem;
+  --lighter-color: #272727;
+  --primary-color: #f6f6f6;
+}
